@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1357848160 source:c:\users\simon\desktop\cours\ba2\info-f-202 - langages de programmation 2\projet\cpp\src\test.cpp
+	"Test.h"
+
+1357848287 c:\users\simon\desktop\cours\ba2\info-f-202 - langages de programmation 2\projet\cpp\src\test.h
+	"BList.h"
+
+1358452427 c:\users\simon\desktop\cours\ba2\info-f-202 - langages de programmation 2\projet\cpp\src\blist.h
+	"List.h"
+
+1357839878 c:\users\simon\desktop\cours\ba2\info-f-202 - langages de programmation 2\projet\cpp\src\list.h
+	"Cont.h"
+	<iostream>
+
+1357882685 c:\users\simon\desktop\cours\ba2\info-f-202 - langages de programmation 2\projet\cpp\src\cont.h
+	<stdexcept>
+	<stdlib.h>
+	<iostream>
+
+1357882704 source:c:\users\simon\desktop\cours\ba2\info-f-202 - langages de programmation 2\projet\cpp\src\main.cpp
+	<iostream>
+	<exception>
+	"Test.h"
+
