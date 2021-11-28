@@ -35,7 +35,7 @@ In general, conciseness, precision, readability (clarity of the source), efficie
 ## BList behavior diagrams
 
 ### Add element
-![add element in BList](addblist.bmp)
+![add element in BList](doc/addblist.bmp)
 
 ### Delete element
-![del element in BList](supblist.bmp)
+![del element in BList](doc/supblist.bmp)
