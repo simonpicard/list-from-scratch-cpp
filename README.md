@@ -3,6 +3,8 @@
 ## Quickstart
 
 ```
+git clone git@github.com:simonpicard/list-from-scratch-cpp.git
+cd list-from-scratch-cpp
 g++ -o main.o src/main.cpp  src/Test.cpp
 ./main.o
 ```
